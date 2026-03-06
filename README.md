@@ -1,9 +1,10 @@
-#Proyecto de análisis de datos
+# Proyecto de análisis de datos
 
-##Integrantes: 
+## Integrantes: 
   1. Duban Alexis Ruiz
   2. Laura Pérez Gil
 
-##Institución
+## Institución
 
 Universidad de Antioquia
+
